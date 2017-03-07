@@ -1,0 +1,8 @@
+C:\MyWebSite\haoyeWebSite\haoyeWebSite\bin\Debug\haoyeWebSite.exe.config
+C:\MyWebSite\haoyeWebSite\haoyeWebSite\bin\Debug\haoyeWebSite.exe
+C:\MyWebSite\haoyeWebSite\haoyeWebSite\bin\Debug\haoyeWebSite.pdb
+C:\MyWebSite\haoyeWebSite\haoyeWebSite\obj\Debug\haoyeWebSite.csprojResolveAssemblyReference.cache
+C:\MyWebSite\haoyeWebSite\haoyeWebSite\obj\Debug\haoyeWebSite.Properties.Resources.resources
+C:\MyWebSite\haoyeWebSite\haoyeWebSite\obj\Debug\haoyeWebSite.csproj.GenerateResource.Cache
+C:\MyWebSite\haoyeWebSite\haoyeWebSite\obj\Debug\haoyeWebSite.exe
+C:\MyWebSite\haoyeWebSite\haoyeWebSite\obj\Debug\haoyeWebSite.pdb
