@@ -1,0 +1,7 @@
+﻿# 放置 "C:\inetpub\wwwroot\" 執行
+
+
+# 瀏覽器
+# http:// [你的IP] / 別名 / 子資料夾 / 檔名.asp
+
+http://127.0.0.1/haoye/index.asp
