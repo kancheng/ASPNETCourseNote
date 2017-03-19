@@ -11,17 +11,7 @@ public partial class _Default : System.Web.UI.Page
     string sub, add;
     protected void Page_Load(object sender, EventArgs e)
     {
-        /*
-        if (a == null)
-        {
-            a = 156;
-        }
 
-        if (b == null)
-        {
-            b = 150;
-        }
-        */
     }
 
     protected void Button1_Click(object sender, EventArgs e)
