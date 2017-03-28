@@ -17,7 +17,7 @@
         <form id = "form1" runat = "server">
             <div>
                 <br />
-                <h1>Create account</h1>
+                <h1>Calc</h1>
                 <br />
             </div>
             <div style = "position:relative; left : 33%; text-align:left;" class = "div-topic">
