@@ -39,7 +39,7 @@
 		</div>
 			<br />
 	<!-- 1 Panel -->
-		<asp:Panel ID="Panel1" runat="server">
+		<asp:Panel ID="Panel1" runat="server" Visible="False">
 		<div class ="alert alert-info" style = "text-align:center; width:50%; margin:0 auto;">
 		<br />
 		<asp:Label ID="Label1" runat="server" style =" font-size:25px;" ForeColor="#31708F">
