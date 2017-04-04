@@ -1,0 +1,37 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeFile="Frame.master.cs" Inherits="Frame" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
+    <style type="text/css">
+        .auto-style1 {
+            height: 20px;
+        }
+    </style>
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="MenuContent" Runat="Server">
+    <a href = "a">網站首頁</a>
+    <br />
+    <a href = "a">網站目錄</a>
+    <br />
+    <a href = "a">網站搜尋</a>
+    <br />
+    <a href = "a">關於網站</a>
+    <br />
+</asp:Content>
+<asp:Content ID="Content3" ContentPlaceHolderID="MainContent" Runat="Server">
+    <table>
+        <tr>
+            <td>
+                <asp:ContentPlaceHolder ID="UpContent" runat="server">
+                </asp:ContentPlaceHolder>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <asp:ContentPlaceHolder ID="DownContent" runat="server">
+                </asp:ContentPlaceHolder>
+            </td>
+        </tr>
+    </table>
+
+</asp:Content>
+
