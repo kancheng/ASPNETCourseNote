@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="~/Default.aspx" title="Index"  description="CH12">
+    <siteMapNode url="~/CH12-1.aspx" title="CH12-1"  description="CH12-1">
+      
+    </siteMapNode>
+    
+    <siteMapNode url="~/CH12-2.aspx" title="CH12-2"  description="CH12-2">
+      <siteMapNode url="~/CH12-2-1.aspx" title="CH12-2-1"  description="CH12-2-1" />
+      <siteMapNode url="~/CH12-2-2.aspx" title="CH12-2-2"  description="CH12-2-2" />
+    </siteMapNode>
+    
+    <siteMapNode url="~/CH12-3.aspx" title="CH12-3"  description="CH12-3">
+      <siteMapNode url="~/CH12-3-1.aspx" title="CH12-3-1"  description="CH12-3-1" />
+      <siteMapNode url="~/CH12-3-2.aspx" title="CH12-3-2"  description="CH12-3-2" />
+    </siteMapNode>
+    
+    <siteMapNode url="~/CH12-4.aspx" title="CH12-4"  description="CH12-4">
+      <siteMapNode url="~/CH12-4-1.aspx" title="CH12-4-1"  description="CH12-4-1" />
+      <siteMapNode url="~/CH12-4-2.aspx" title="CH12-4-2"  description="CH12-4-2" />
+    </siteMapNode>
+    
+    <siteMapNode url="~/CH12-5.aspx" title="CH12-5"  description="CH12-5">
+      <siteMapNode url="~/CH12-5-1.aspx" title="CH12-5-1"  description="CH12-5-1" />
+      <siteMapNode url="~/CH12-5-2.aspx" title="CH12-5-2"  description="CH12-5-2" />
+    </siteMapNode>
+    
+    <siteMapNode url="~/CH12-6.aspx" title="CH12-6"  description="CH12-6">
+
+    </siteMapNode>
+
+  </siteMapNode>
+</siteMap>
