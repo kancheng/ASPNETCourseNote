@@ -1,1 +1,22 @@
 ﻿在 C:\Program Files\IIS Express 執行 bat 檔案
+
+P.S : 不能關閉 CMD 畫面
+
+接下來去瀏覽器啟動
+
+http://localhost:8082/asp.netwebadminfiles/default.aspx?applicationPhysicalPath=C:\[專案路徑]&applicationUrl=/[專案目錄名稱]
+
+主網頁 -> 安全性 -> 使用安全性設定精靈，逐步設定安全性 -> 下一步 ...
+
+
+# by 專案 Web.config Edit
+
+<configuration>
+
+    <system.web>
+      <authentication mode="Forms" />
+      <compilation debug="true" targetFramework="4.6" />
+      <httpRuntime targetFramework="4.6" />
+    </system.web>
+
+</configuration>
