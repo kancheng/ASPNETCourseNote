@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--網頁製作徹底研究系列-->
+<booklist>
+  <book>
+      <id>F3838</id>
+      <title>Play ASP.NET Web</title>
+      <authorlist>
+         <author>Haoye</author>
+      </authorlist>
+      <price>81000</price>
+  </book>
+  <book>
+      <id>F8787</id>
+      <title>XML Web Pages</title>
+      <authorlist>
+         <author>Kancheng</author>
+      </authorlist>
+      <price>9487</price>
+  </book>
+</booklist>
